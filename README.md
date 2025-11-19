@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## I am Georgios Tsiantaris :man:
+
+🌱 I’m currently learning JavaScript.
+
+📫 You can reach out to me on my LinkedIn, or via email both are in my bio!
+
+
 <!--
 **yourboyace247/yourboyace247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
