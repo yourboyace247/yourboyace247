@@ -2,8 +2,6 @@
 
 ## I am Georgios Tsiantaris :man:
 
-🌱 I’m currently learning React.
-
 📫 You can reach out to me on my LinkedIn, or via email both are in my bio!
 
 
