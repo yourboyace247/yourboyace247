@@ -5,10 +5,10 @@ Young developer, passionate about building awesome things, and learning new tech
 </p>
 
 <h1 align="center">-👨‍💻Currently looking for a job as Software Developer. <br>
-<h1 align="center">-📫You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/georgios-tsiantaris/).</h1>
+-📫You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/georgios-tsiantaris/).
 
-<h3>Languages and Tools:</h3>
-<p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
