@@ -1,11 +1,11 @@
-<h1 align="center"> Hi there 👋 I am Georgios Tsiantaris :man: <h1>
+<h1 align="center"> Hi there 👋 I am Georgios Tsiantaris :man: </h1>
 
 <p align="center">
 Young developer, passionate about building awesome things, and learning new technologies!
 </p>
 
--👨‍💻Currently looking for a job as Software Developer.
--📫You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/georgios-tsiantaris/).
+<h1 align="center">-👨‍💻Currently looking for a job as Software Developer.<br>
+-📫You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/georgios-tsiantaris/).</h1>
 
 <h3>Languages and Tools:</h3>
 <p>
