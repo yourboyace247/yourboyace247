@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am Georgios Tsiantaris :man:</h1>
+<h1 align="center">Hi there 👋 I am Georgios! </h1>
 
 <p align="center">
 Young developer, passionate about building awesome things, and learning new technologies!
