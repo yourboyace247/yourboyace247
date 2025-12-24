@@ -5,7 +5,7 @@ Young developer, passionate about building awesome things, and learning new tech
 </p>
 
 <h1 align="center">-👨‍💻Currently looking for a job as Software Developer. <br>
--📫You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/georgios-tsiantaris/).
+-📫You can reach out to me on my [LinkedIn](https://www.linkedin.com/in/georgios-tsiantaris/)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -20,6 +20,8 @@ Young developer, passionate about building awesome things, and learning new tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourboyace247&show_icons=true&theme=dark)
 
 
 <!--
