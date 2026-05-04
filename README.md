@@ -4,8 +4,6 @@
 Young developer, passionate about building awesome things, and learning new technologies!
 </p>
 
-<h1 align="center">-👨‍💻Currently looking for a job as Software Developer.
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
